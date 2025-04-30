@@ -1,0 +1,26 @@
+{
+    "name": "practice-writing-unittests-KevinE",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cart.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kevolution82/practice-writing-unitTests-KevinE.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kevolution82/practice-writing-unitTests-KevinE/issues"
+    },
+    "homepage": "https://github.com/kevolution82/practice-writing-unitTests-KevinE#readme"
+}
